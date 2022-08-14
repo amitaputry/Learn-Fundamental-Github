@@ -1,2 +1,1 @@
-Hello World
-Pada file ini saya juga menambahkan teks baru.
+Hello world saja
