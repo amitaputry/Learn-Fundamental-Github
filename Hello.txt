@@ -1,2 +1,1 @@
-Hello World, saya menambahkan teks baru di file ini.
-File ini sekarang menjadi 2 baris kata.
+Hello world saja
